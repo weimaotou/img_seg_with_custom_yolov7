@@ -1,0 +1,3 @@
+[submodule "YOLOv7"]
+	path = YOLOv7
+	url = https://github.com/jinfagang/yolov7_d2.git
